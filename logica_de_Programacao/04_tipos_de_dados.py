@@ -24,6 +24,6 @@ print('Harvy Spector', type('Harvy Spector'))
 #Idade: int
 print(32, type(32))
 #Altura: Float
-print(1.79, type(1.79))
+print(1.80, type(1.80))
 #Você é maior de idade?
 print(32 >= 21, type(32 >= 21))
